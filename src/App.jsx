@@ -39,7 +39,7 @@ function App() {
       </div>
       <footer className="rodape"><strong>©2024 DESENVOLVIDO POR <span>UBERDAN ALMEIDA</span></strong>
         <p id="logo">
-        ACESSA MINHHAS REDES SOCIAIS:
+        ACESSA MINHAS REDES SOCIAIS:
           <a href="https://www.linkedin.com/in/uberdan-almeida-8a1a08223/">
           <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedin-uberdan"/>
           </a>
