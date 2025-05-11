@@ -47,7 +47,7 @@ function App() {
           <img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" alt="github-uberdan"/>
           </a>
         </p>
-      </footer>
+      </footer> 
     </>
   );
 }
