@@ -40,10 +40,10 @@ function App() {
       <footer className="rodape"><strong>©2024 DESENVOLVIDO POR <span>UBERDAN ALMEIDA</span></strong>
         <p id="logo">
         ACESSA MINHAS REDES SOCIAIS:
-          <a href="https://www.linkedin.com/in/uberdan-almeida-8a1a08223/">
+          <a href="https://www.linkedin.com/in/uberdan-almeida-8a1a08223/" target="_black" rel="noopener">
           <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedin-uberdan"/>
           </a>
-          <a href="https://github.com/Uberdanalmeida">
+          <a href="https://github.com/Uberdanalmeida" target="_black" rel="noopener">
           <img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" alt="github-uberdan"/>
           </a>
         </p>
