@@ -1,4 +1,4 @@
-![Aplicativo lista](Imagens/AppLista.png)
+![Aplicativo lista](Imagens/MonteLista.png)
 
 # Lista de Compras React App
 
