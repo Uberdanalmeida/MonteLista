@@ -37,7 +37,7 @@ function App() {
           ))}
         </div>
       </div>
-      <footer className="rodape"><strong>©2024 DESENVOLVIDO POR <span>UBERDAN ALMEIDA</span></strong>
+      <footer className="rodape"><strong>©2025 DESENVOLVIDO POR <span>UBERDAN ALMEIDA</span></strong>
         <p id="logo">
         ACESSA MINHAS REDES SOCIAIS:
           <a href="https://www.linkedin.com/in/uberdan-almeida-8a1a08223/" target="_blank" rel="noopener">
